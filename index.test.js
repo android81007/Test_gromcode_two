@@ -1,4 +1,4 @@
-import summTwo,{ getSquaredArrey, getOddNumbers} from "./colculator";
+import summTwo,{ getSquaredArrey, getOddNumbers} from "./calculator";
 
 it("squared number ", () => {
   const result = getSquaredArrey([2, 3, 10]);
