@@ -1,4 +1,4 @@
-export function getSquaredArrey(arr) {
+export function getSquaredArray(arr) {
   
   return arr.map((num) => num * num);
 }
@@ -8,5 +8,4 @@ export function getOddNumbers (notevent) {
 }
 export default function summTwo (a,b) {
   return  a + b;
-
 }
